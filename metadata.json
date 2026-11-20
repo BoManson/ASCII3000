@@ -1,0 +1,6 @@
+{
+  "name": "Gridline 3000",
+  "description": "A mobile-first retro phosphor ASCII city-builder inspired by SimCity 3000 with unlimited sandbox building, live power grids, and RCI demand simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
